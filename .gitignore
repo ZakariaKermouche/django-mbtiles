@@ -10,6 +10,6 @@ develop-eggs
 .installed.cfg
 
 # example project
-example/bin
-example/etc
+# example/bin
+# example/etc
 
